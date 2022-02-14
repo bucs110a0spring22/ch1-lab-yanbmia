@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ Labs (w/o grace days) are deducted 10% everyday. Late labs can be submitted at anytime for at most 50%.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None
 
 ## REFERENCES:
- < List any outside resources used >
+None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
